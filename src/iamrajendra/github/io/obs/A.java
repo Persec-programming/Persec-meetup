@@ -1,4 +1,4 @@
-package iamrajendra.github.io.classes;
+package iamrajendra.github.io.obs;
 
 public class A {
     int x = 5;

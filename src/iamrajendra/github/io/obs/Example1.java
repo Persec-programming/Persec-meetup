@@ -1,6 +1,4 @@
-package iamrajendra.github.io.classes;
-
-import java.util.Arrays;
+package iamrajendra.github.io.obs;
 
 public class Example1 {
     private static A a;
