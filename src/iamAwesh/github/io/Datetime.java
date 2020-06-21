@@ -1,4 +1,5 @@
 package iamAwesh.github.io;
+<<<<<<< HEAD
 import java.util.Scanner;
 public class Datetime {
     public static void main(String[] args) {
@@ -10,4 +11,8 @@ public class Datetime {
         System.out.println("time is" + time);
         System.out.println("Date is" + date);
     }
+=======
+
+public class Datetime {
+>>>>>>> f227ea5a2f5c251a1cbb7c8f582f3838046d7b87
 }
